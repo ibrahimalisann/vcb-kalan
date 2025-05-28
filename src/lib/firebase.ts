@@ -25,8 +25,8 @@ import {
 const firebaseConfig = {
   apiKey: "AIzaSyBaLfRR0TSVg6QqvFY4tLNJJ1F5c4l92kI",
   authDomain: "vcbson-a92fc.firebaseapp.com",
-  projectId: "vvcbson-a92fc",
-  storageBucket: "vcbson-a92fc.firebasestorage.app",
+  projectId: "vcbson-a92fc",
+  storageBucket: "vcbson-a92fc.appspot.com",
   messagingSenderId: "35972849762",
   appId: "1:35972849762:web:40ed4e78dfdbe0de00b13b",
   measurementId: "G-2NLD6Q2NYB",
